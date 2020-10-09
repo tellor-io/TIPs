@@ -5,7 +5,7 @@ Title: Tellor Improvement Proposal Process
 Discussions-to: <URL to Issue opened within this repository>
 Status: Draft
 Category: General
-Author: Tellor Team - POCs Brenda (@brendaloya) , Nick (@themandalore)
+Author: Tellor Team POCs Brenda (@brendaloya) , Nick (@themandalore)
 Created: 2020-10-09
 Requires (*optional): <TIP number(s)>
 Replaces (*optional): <TIP number(s)>
