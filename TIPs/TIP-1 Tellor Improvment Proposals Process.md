@@ -1,13 +1,11 @@
 ---
 TIP: TIP-1
 Title: Tellor Improvement Proposal Process
-Discussions-to: <URL to Issue opened within this repository>
+Discussions-to: https://github.com/tellor-io/TIPs/issues/1
 Status: Draft
-Category: General
+Category: On-Chain Scalability
 Author: Brenda (@brendaloya)
 Created: 2020-10-07
-Requires (*optional): <TIP number(s)>
-Replaces (*optional): <TIP number(s)>
 ---
 
 
@@ -18,7 +16,7 @@ Replaces (*optional): <TIP number(s)>
 * Creating a proposal life cycle structure for Tellor Improvement Proposals(TIPs)
 
 # Proposal
-Tellor is now fully decentralized and any further updates will be proposed and voted by the community. Hence, a process needs to be put in place to ensure the community becomes aware and is properly educated on each proposal and their purpose. This Tellor Improvement Proposal (TIP) details the initial structure for proposing and update and their life cycle through implementation or rejection by the community. As a community we can ensure that best practices are grown and implemented based on the first few community experiences with the first proposals.  
+Tellor is now fully decentralized and any further updates will be proposed and voted by the community. Hence, a process needs to be put in place to ensure the community becomes aware and is properly educated on each proposal and their purpose. This Tellor Improvement Proposal (TIP) details the initial structure for proposing and update and their life cycle through implementation or rejection by the community. As a community, we can ensure that best practices are grown and implemented based on the first few community experiences with the first proposals.  
 
 
 ## Tellor Improvement Proposals (TIPs)

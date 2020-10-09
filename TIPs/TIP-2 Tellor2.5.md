@@ -1,13 +1,11 @@
 ---
-TIP: TIP-1
-Title: Tellor Improvement Proposal Process
-Discussions-to: <URL to Issue opened within this repository>
+TIP: TIP-2
+Title: Tellor V2.5
+Discussions-to: https://github.com/tellor-io/TIPs/issues/2
 Status: Draft
 Category: General
 Author: Tellor Team POCs Brenda (@brendaloya) , Nick (@themandalore)
 Created: 2020-10-09
-Requires (*optional): <TIP number(s)>
-Replaces (*optional): <TIP number(s)>
 ---
 
 
