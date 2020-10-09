@@ -1,4 +1,3 @@
-# TIP-2 Tellor V2.5
 ---
 TIP: TIP-1
 Title: Tellor Improvement Proposal Process
@@ -10,6 +9,9 @@ Created: 2020-10-09
 Requires (*optional): <TIP number(s)>
 Replaces (*optional): <TIP number(s)>
 ---
+
+
+# TIP-2 Tellor V2.5
 
 ### TLDR
 
