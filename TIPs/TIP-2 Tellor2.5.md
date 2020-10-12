@@ -21,9 +21,7 @@ Created: 2020-10-09
 There are two key features of this upgrade, chosen specifically to be non-controversial so as to get a vote through.  They are:
 
 ### Reduced stake
-Move from 1000 to 500 TRB 
-
-Decreasing the stake amount attempts to incentivise more miners to join the network. This change complements an update done on Tellor V2 where miners are now only allowed to "win" once every 15 minutes to incentivize growth in the miner network.
+The miners staking amount has been decreased from 1000 to 500 TRB. Decreasing the stake amount incentivizes miners to join the network. This change complements an update done on Tellor V2 where miners are now only allowed to "win" once every 15 minutes to incentivize growth in the miner network.
 
 ### Reward is now a function of blocktime
 
