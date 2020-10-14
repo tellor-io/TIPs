@@ -14,7 +14,7 @@ Created: 2020-10-09
 ### TLDR
 
 * Staking reduced from 1000 TRB to 500 TRB 
-* Current miner reward changed fron 1 TRB + tips to 1 TRB + tips + timeSinceLastMineValue/5Min
+* Current miner reward changed fron 1 TRB + tips to (1 TRB * timeSinceLastMineValue/5Min) + tips 
 
 
 ## Proposal
