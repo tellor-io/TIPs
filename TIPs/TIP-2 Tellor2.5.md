@@ -24,7 +24,8 @@ The miners staking amount has been decreased from 1000 to 500 TRB. Decreasing th
 
 ### Reward is now a function of blocktime
 Instead of miners getting paid a fixed reward each block, the mining reward will be based on the time since the last block.  The current reward is 1 TRB per miner per Tellor block with the difficulty target at 5 minutes.  The problem is that if gas costs are high enough that 1TRB + tips is less than the cost, no miners submit and the network stalls.  Users can tip extra to miners, but this is a heavily manual process and forces even more txns on the already clogged network. The solution is to make the reward based upon the time since the last Tellor block.  Now if a block is mined at 5 minutes, the reward will be 1 TRB per miner.  If the block is mined at 10 minutes, the reward will be 2 TRB per miner.  
-Now the Tellor network will have a more predictable inflation rate, move slower during times of high gas costs, but even for the parties that cannot tip exorbitant amounts, the TRB network will still continue to function.  
+
+This change will allow the Tellor network to have a more predictable inflation rate, to continue to add data (even if it is at a slower rate) during times of high gas costs, and for the parties that cannot tip exorbitant amounts, the TRB network will still continue to function.  
 
 ### Link to repo with code
 
