@@ -16,6 +16,8 @@ Created: 2020-10-09
 * Staking reduced from 1000 TRB to 500 TRB 
 * Current miner reward changed from 1 TRB + tips/2 to (1 TRB * timeSinceLastMineValue/5Min) + tips/2 
 
+![RewardsUpdate](./public/rewardsUpdate.png)
+
 ## Proposal
 There are two key features of this upgrade, chosen specifically to be non-controversial so as to get a vote through.  They are:
 
