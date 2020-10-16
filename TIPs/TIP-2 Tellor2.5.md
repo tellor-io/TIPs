@@ -14,7 +14,7 @@ Created: 2020-10-09
 ### TLDR
 
 * Staking reduced from 1000 TRB to 500 TRB 
-* Current miner reward changed from 1 TRB + tips/2 to (1 TRB * timeSinceLastMineValue/5Min) + tips/2 
+* Current miner reward changed from 1 TRB + tips/2 to: 
 
 ![RewardsUpdate](https://github.com/tellor-io/TIPs/blob/main/TIPs/public/rewardsUpdate.jpg)
 
