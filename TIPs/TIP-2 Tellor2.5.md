@@ -2,7 +2,7 @@
 TIP: TIP-2
 Title: Tellor V2.5
 Discussions-to: https://github.com/tellor-io/TIPs/issues/2
-Status: Draft
+Status: Implemented
 Category: General
 Author: Tellor Team POCs Brenda (@brendaloya) , Nick (@themandalore)
 Created: 2020-10-09
@@ -33,3 +33,6 @@ This change will allow the Tellor network to have a more predictable inflation r
 
 [https://github.com/tellor-io/TellorCore/tree/dev](https://github.com/tellor-io/TellorCore/tree/dev) 
 
+### Link to press release
+
+[https://medium.com/tellor/the-tribe-has-spoken-e25b05949ffe](https://medium.com/tellor/the-tribe-has-spoken-e25b05949ffe) 
