@@ -33,6 +33,14 @@ This change will allow the Tellor network to have a more predictable inflation r
 
 [https://github.com/tellor-io/TellorCore/tree/dev](https://github.com/tellor-io/TellorCore/tree/dev) 
 
+
+### Outcome 
+
+* The vote passed (the voting period ended on 10/23/2020)
+* 18 % of total supply voted 
+* The proposed Tellor contract was implementd on 10/25/2020
+
 ### Link to press release
 
 [https://medium.com/tellor/the-tribe-has-spoken-e25b05949ffe](https://medium.com/tellor/the-tribe-has-spoken-e25b05949ffe) 
+
