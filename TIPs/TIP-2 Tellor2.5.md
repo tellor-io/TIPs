@@ -38,7 +38,7 @@ This change will allow the Tellor network to have a more predictable inflation r
 
 * The vote passed (the voting period ended on 10/23/2020)
 * 18 % of total supply voted 
-* The proposed Tellor contract was implementd on 10/25/2020
+* The proposed Tellor contract was implemented on 10/25/2020
 
 ### Link to press release
 
