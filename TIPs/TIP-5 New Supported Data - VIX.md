@@ -1,7 +1,7 @@
 ---
 TIP: 5
 Title: New Supported Data - VIX
-Discussions-to: https://github.com/tellor-io/TIPs/issues/3
+Discussions-to: https://github.com/tellor-io/TIPs/issues/5
 Status: Draft
 Category: Off-chain-New Data
 Author: <a @themandalore>,Nick (@themandalore)>
