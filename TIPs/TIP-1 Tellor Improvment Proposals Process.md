@@ -2,7 +2,7 @@
 TIP: TIP-1
 Title: Tellor Improvement Proposal Process
 Discussions-to: https://github.com/tellor-io/TIPs/issues/1
-Status: Draft
+Status: Implemented
 Category: On-Chain Scalability
 Author: Brenda (@brendaloya)
 Created: 2020-10-07
