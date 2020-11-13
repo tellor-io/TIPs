@@ -2,7 +2,7 @@
 TIP: 3
 Title: New Supported Data - OGN
 Discussions-to: https://github.com/tellor-io/TIPs/issues/3
-Status: Draft
+Status: Implemented
 Category: Off-chain-New Data
 Author: <a @themandalore>,Nick (@themandalore)>
 Created: 10-29-2020
@@ -33,3 +33,6 @@ In the miner code, add as a subsequent PSR and the following API's in the indexe
 
 
 '''
+
+### Implementation
+This update was implemented on the Tellor Miner Release v5.2.0: [https://github.com/tellor-io/TellorMiner/releases/tag/v5.2.0](https://github.com/tellor-io/TellorMiner/releases/tag/v5.2.0)

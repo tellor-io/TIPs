@@ -2,7 +2,7 @@
 TIP: 5
 Title: New Supported Data - VIX
 Discussions-to: https://github.com/tellor-io/TIPs/issues/5
-Status: Draft
+Status: Implemented
 Category: Off-chain-New Data
 Author: <a @themandalore>,Nick (@themandalore)>
 Created: 11/3/2020
@@ -34,3 +34,6 @@ A PR will be coming in the miner to handle these apikeys in your config file
 	],
 
 '''
+
+### Implementation
+This update was implemented on the Tellor Miner Release v5.2.0: [https://github.com/tellor-io/TellorMiner/releases/tag/v5.2.0](https://github.com/tellor-io/TellorMiner/releases/tag/v5.2.0)
