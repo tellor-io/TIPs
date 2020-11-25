@@ -1,5 +1,3 @@
-# TIPs
-
 # Tellor Improvement Proposals (TIPs)
 Tellor Improvement Proposals (TIPs) are the mechanism used for improving Tellor’s protocol through an open process that allows for transparent governance by our community of token holders. TIPs describe any proposed improvements, fork proposals, and pre-specified data requests for the Tellor community to discuss and vote on.
 
