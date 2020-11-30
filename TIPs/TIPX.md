@@ -15,7 +15,7 @@ Created: 2020-11-30
 * Exclude slot 5 from the retargeting algorithm so the difficulty is not so volatile and does not collapse when the gas prices rise.
 
 # Motivation
-Consider the definition of network difficulty originally proposed by Satoshi Nakamoto [[1]](https://bitcoin.org/bitcoin.pdf):
+Consider the definition of network difficulty originally proposed by Satoshi Nakamoto in the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf):
 > To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour. If they're generated too fast, the difficulty increases. 
 Under the definition, the network difficulty should compenstate for two factors: increasing hardware speed and changing in interest in running a node. The time it takes to generate blocks is a proxy for these two factors.
 
