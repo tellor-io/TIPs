@@ -37,9 +37,9 @@ The current retageting creates two main problems that prevent new miners from jo
 
 # Risk Register
 This section includes risks identified should this proposal be implemented:
-| Description | Mitigating Factors |
-|-------------|--------------------|
-| There is a risk that a motivated actor mines slots 1-4 very quickly and leaves slot 5 to the other miners. The miner would greif the system by making the difficulty artificially high. As a result, the time between blocks would rise significantly. | Currently, the network is griefed whenever the gas rises, block times increase significantly. Under this 1-4 slot retargeting, a malicious actor would have no advantage over the other miners due the the network difficulty making the probability of success equal for all. The 5th slot would still be submitted when its profitable to submit. This risk is present in all POW chains, including bitcoin, but becomes less of a risk as there are more miners join and add computer power. This proposal makes the network more open and fair so we can expect more miners to join. Overtime, this risk becomes minimized as the network grows larger because the cost to sustain such an attack would not be worthwhile. | 
+| Description | Mitigating Factors | Potential Controls |
+|-------------|--------------------|--------------------|
+| There is a risk that a motivated actor mines slots 1-4 very quickly and leaves slot 5 to the other miners. The miner would greif the system by making the difficulty artificially high. As a result, the time between blocks would rise significantly. | This risk is present in all POW chains, including bitcoin, but becomes less of a risk as there are more miners join and add computer power. This proposal makes the network more open and fair so we can expect more miners to join. Overtime, this risk becomes minimized as the network grows larger because the cost to sustain such an attack would not be worthwhile. Currently, the network is griefed whenever the gas rises and the network handles it fine. | Roll up bonus rewards to the 5th slot when the reward is greater than 5 TRB for the five miners. For example when 10 minute round and reward is 10, the rewards are distributed as (1,1,1,1,6) for slots (1,2,3,4,5) respectively. |
 
 
 
