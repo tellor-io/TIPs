@@ -25,7 +25,7 @@ Consider the definition of network difficulty originally proposed by Satoshi Nak
 
 Under the definition, the network difficulty should compenstate for two factors: increasing hardware speed and changing in interest in running a node. The time it takes to generate blocks is a proxy for these two factors.
 
-Currently, the network difficulty for mining Tellor is compenstating for Ethereum gas price. As a result, node operators decrease (increase) their hardware speed based on as prices rising (falling). This coupling between network difficulty and gas price is shown in the chart below:
+Currently, the network difficulty for mining Tellor is compenstating for Ethereum gas price. As a result, node operators decrease (increase) their hardware speed based on gas prices rising (falling). This coupling between network difficulty and gas price is shown in the chart below:
 
 ![Difficulty and Gas Price](./public/gas_price_difficulty.png)
 
