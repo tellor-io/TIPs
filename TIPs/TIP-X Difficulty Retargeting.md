@@ -10,7 +10,12 @@ Created: 2020-11-30
 
 # TIP-X: Modify Difficulty Retargeting
 
-# Proposal
+### TLDR
+* Change the difficulty retargeting algorithm to retarget based on slots 1-4. 
+* Exclude slot 5 from the retargeting algorithm so the difficulty is not so volatile and does not collapse when the gas prices rise.
+
+## Proposal
+The current difficulty retargeting algorithm prevents the network from being open and fair, like the Bitcoin network has proven to be (excluding factors of economic inequality). This proposal would make the network more open and fair for all miners. It also makes it easier for new miners to make decisions about investing in running a node. The proposed changes are:
 * Change the difficulty retargeting algorithm to retarget based on slots 1-4. 
 * Exclude slot 5 from the retargeting algorithm so the difficulty is not so volatile and does not collapse when the gas prices rise.
 
@@ -29,9 +34,6 @@ The difficulty compenstates for gas prices rather than increasing hardware speed
 The current retageting creates two main problems that prevent new miners from joining the network and give established miners an unfair advantage:
 1. The difficulty is incredible volatile and makes it difficult to make business decisions around running a node. Return on investment calculations are effectively useless. As a result, Minerstat has delisted Tellor, new miners who find calculators are being mislead, and enterprises view Tellor as a high risk, low reward investment.
 2. The official TellorMiner will only mine the 5th slot. New miners who run the TellorMiner will find they're often submitting for a lose, dispite using the profitablilityThreshold feature. Miners using custom mining software are able to mine slots 1-4 within 1 or 2 blocks (~30 seconds) after the previous challenge ends. The 5th slot is left for the newbies. 
-
-# Improvment Summary
-The current difficulty retargeting algorithm prevents the network from being open and fair, like the Bitcoin network has proven to be (excluding factors of economic inequality). This proposal would make the network more open and fair for all miners. It also makes it easier for new miners to make decisions about investing in running a node.
 
 # Risk Register
 This section includes risks identified should this proposal be implemented:
