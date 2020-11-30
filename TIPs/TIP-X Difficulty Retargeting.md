@@ -22,6 +22,7 @@ The current difficulty retargeting algorithm prevents the network from being ope
 # Motivation
 Consider the definition of network difficulty originally proposed by Satoshi Nakamoto in the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf):
 > To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour. If they're generated too fast, the difficulty increases. 
+
 Under the definition, the network difficulty should compenstate for two factors: increasing hardware speed and changing in interest in running a node. The time it takes to generate blocks is a proxy for these two factors.
 
 Currently, the network difficulty for mining Tellor is compenstating for Ethereum gas price. As a result, node operators decrease (increase) their hardware speed based on as prices rising (falling). This coupling between network difficulty and gas price is shown in the chart below:
