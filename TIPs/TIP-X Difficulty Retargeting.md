@@ -4,7 +4,7 @@ Title: Modify Difficulty Retargeting
 Discussions-to: None
 Status: Draft
 Category: On-chain > Security
-Author: @shepardblue
+Author: Shepard (@ngc-3656)
 Created: 2020-11-30
 ---
 
