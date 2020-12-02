@@ -1,5 +1,5 @@
 ---
-TIP: X
+TIP: 6
 Title: Modify Difficulty Retargeting
 Discussions-to: None
 Status: Draft
@@ -8,7 +8,7 @@ Author: Shepard (@ngc-3656)
 Created: 2020-11-30
 ---
 
-# TIP-X: Modify Difficulty Retargeting
+# TIP-6: Modify Difficulty Retargeting
 
 ### TLDR
 * Change the difficulty retargeting algorithm to retarget based on slots 1-4. 
