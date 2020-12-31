@@ -1,6 +1,6 @@
 ---
 TIP: 7
-Title: New Supported Data - DEFIMARKETCAP
+Title: New Supported Data - DEFITVL
 Discussions-to: https://github.com/tellor-io/TIPs/issues/10
 Status: Not Implemented
 Category: Off-chain-New Data
@@ -8,11 +8,11 @@ Author: <CombineFinance (@combinefinance)>
 Created: 24-12-2020
 ---
 
-# TIP-7 New Supported Data - DEFIMARKETCAP
+# TIP-7 New Supported Data - DEFITVL
 
 ### TLDR
 
-Add the CoinGecko DeFi MarcketCap index to list of supported Tellor feeds.  
+Add the CoinGecko DeFi Total Value Locked index to list of supported Tellor feeds.  
 
 # Proposal
 
