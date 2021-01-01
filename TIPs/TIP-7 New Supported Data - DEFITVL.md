@@ -2,7 +2,7 @@
 TIP: 7
 Title: New Supported Data - DEFITVL
 Discussions-to: https://github.com/tellor-io/TIPs/issues/10
-Status: Not Implemented
+Status: Implemented
 Category: Off-chain-New Data
 Author: <CombineFinance (@combinefinance)>
 Created: 24-12-2020
@@ -16,6 +16,9 @@ Add the CoinGecko DeFi Total Value Locked index to list of supported Tellor feed
 
 # Proposal
 
-[Telliot PR #344](https://github.com/tellor-io/telliot/pull/334) 
+
+Adds the DEFI TVL to both the indexes.json and a new PSR (id 57)
 
 ### Implementation
+
+[Telliot PR #344](https://github.com/tellor-io/telliot/pull/334) 
