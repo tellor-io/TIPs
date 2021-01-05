@@ -1,6 +1,6 @@
 ---
 TIP: 6
-Title: Modify Difficulty Retargeting
+Title: Tellor 2.6
 Discussions-to: None
 Status: Draft
 Category: On-chain > Security
@@ -8,7 +8,7 @@ Author: Shepard (@ngc-3656)
 Created: 2020-11-30
 ---
 
-# TIP-6: Modify Difficulty Retargeting
+# TIP-6: Tellor 2.6
 
 ### TLDR
 * Change the difficulty retargeting algorithm to retarget based on slots 1-4. 
