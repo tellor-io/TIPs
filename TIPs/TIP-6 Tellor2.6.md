@@ -2,7 +2,7 @@
 TIP: 6
 Title: Tellor 2.6
 Discussions-to: None
-Status: Accepted
+Status: Final review
 Category: On-chain > Security
 Author: Shepard (@ngc-3656)
 Created: 2020-11-30
