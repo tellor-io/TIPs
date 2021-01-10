@@ -46,3 +46,19 @@ This section includes risks identified should this proposal be implemented:
 
 
 
+
+## Link to verified contracts
+
+### V2.6 Contracts with proposed updates
+Mainnet Tellor: [0xC5721b1b753B0E2129F88694762C718c36442e7c](https://etherscan.io/address/0xC5721b1b753B0E2129F88694762C718c36442e7c#code)
+
+Rinkeby Tellor: [0x9fac705a49e0c8789483c518e71c6483e495ecc4](https://rinkeby.etherscan.io/address/0x9fac705a49e0c8789483c518e71c6483e495ecc4#code)
+
+### Current contracts V2.5
+
+You can use the contracts linked below to review the differences between the proposed update(V2.6) and the current smart contracts (V2.5) in production. 
+
+Mainnet Tellor: [0xF7914ebf0f021Adaf95114B068502d0C7D107bc9](https://etherscan.io/address/0xf7914ebf0f021adaf95114b068502d0c7d107bc9/advanced#code)
+
+Rinkeby Tellor : [0x7e05e8a675e649261Acc19423Db34Dd4826f9a98](https://rinkeby.etherscan.io/address/0x7e05e8a675e649261acc19423db34dd4826f9a98#code)
+
