@@ -5,7 +5,8 @@ Tellor Improvement Proposals (TIPs) are the mechanism used for improving Tellorâ
 
 Ideas should be thoroughly discussed prior to opening a pull request in the GitHub issues of this repository. Once the idea has been discussed and a proposal can be formally submitted, a pull request can be initiated, and the proposal will go through these phases:
 
-* Draft: where the community will be able to view the full written proposal, further comment and provide feedback. If the proposal includes changes to the code base to Tellor, the miner, or a full fork the draft code should be submitted along with the written draft.
+* Draft: where the community will be able to view the full written proposal, further comment and provide feedback. If the proposal includes changes to the code base to Tellor, the miner, or a full fork the draft code should be submitted along with the written draft. Begin your draft using the [template](https://github.com/tellor-io/TIPs/blob/main/TIPs/TIP-Template.md)
+
    * Proposals that include changes to the code base will go through development, review, audit (if required), 100% coverage for local tests and be deployed, verified on Etherscan, and tested on a test net before the final review.
 * Final Review: were the community will be able to view the final proposal and the final code base for it (if it required it) deployed and verified on mainnet.
 * Voting period: Is the seven-day on-chain voting period where the community will vote on the proposal.  
