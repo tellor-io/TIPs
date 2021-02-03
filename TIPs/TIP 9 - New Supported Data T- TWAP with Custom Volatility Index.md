@@ -22,9 +22,9 @@ To provide a TWAP with a custom volatility index, On a quarterly basis. This wil
 Each specified component is weighted according to the volatility index as specified below:
 
 Component 1 = C1
-Component 2 = c2 …
+Component 2 = C2 …
 
-Volatility Factor (VF) of A1:
+Volatility Factor (VF) of C1:
 
 {|price(C1)annual peak - price(C1)annual nadir| * (price(C1)mean)-1} + {STDev(C1)}
 
