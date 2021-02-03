@@ -26,7 +26,7 @@ Component 2 = C2 …
 
 Volatility Factor (VF) of C1:
 
-{|price(C1)annual peak - price(C1)annual nadir| * (price(C1)mean)-1} + {STDev(C1)}
+{|price(C1)annual max - price(C1)annual min| * (price(C1)mean)-1} + {STDev(C1)}
 
 Volatility Index (VI) of C1:
 
