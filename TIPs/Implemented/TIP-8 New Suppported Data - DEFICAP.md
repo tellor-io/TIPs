@@ -2,13 +2,14 @@
 TIP: 8
 Title: New Supported Data - DEFICAP
 Discussions-to: https://github.com/tellor-io/TIPs/issues/11
-Status: Final Review
+Status: Implemented
 Category: Off-chain-New Data
 Author: JG Carvalho
-Created: 28-01-2021
+Created: 2021-01-28
+Implmented: 2021-02-02
 ---
 
-# TIP-7 New Supported Data - DEFICAP
+# TIP-8 New Suppported Data - DEFICAP
 
 ### TLDR
 
