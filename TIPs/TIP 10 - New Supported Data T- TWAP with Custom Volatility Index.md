@@ -1,5 +1,5 @@
 ---
-TIP: TIP 9
+TIP: TIP 10
 Title: New Supported Data - TWAP with Custom Volatility Index
 Discussions-to: https://github.com/tellor-io/TIPs/issues/14
 Status: Draft
@@ -8,7 +8,7 @@ Author: Brenda Loya (@brendaloya), Apollo
 Created: 2021-02-02
 ---
 
-# TIP 9 - New Supported Data - TWAP with Custom Volatility Index
+# TIP 10 - New Supported Data - TWAP with Custom Volatility Index
 
 ### TLDR
 
