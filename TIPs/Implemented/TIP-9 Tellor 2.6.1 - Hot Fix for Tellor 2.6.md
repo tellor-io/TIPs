@@ -2,7 +2,7 @@
 TIP: 9
 Title: Tellor 2.6.1 - Hot Fix for Tellor 2.6
 Discussions-to: https://github.com/tellor-io/TIPs/issues/15
-Status: Voting period
+Status: Implemented
 Category: On-chain > Security
 Author: JG Carvalho (@jgcarv)
 Created: 2021-02-03
@@ -24,3 +24,8 @@ Voting period goes for 7 days and it began: 2/7/2021
 
 ## Fix
 [https://github.com/tellor-io/TellorCore/tree/fix](https://github.com/tellor-io/TellorCore/tree/fix)
+
+
+## Implementation
+
+V2.6 was implemented through a community vote. However, Tellor had to be updated shorlty after with a fork because the old Tellor system was frozen. More information on this is detailed on the post morten article published here: [Tellor's V1 Post-mortem](https://medium.com/tellor/tellor-token-v1-da0d485af48e)
