@@ -14,7 +14,7 @@ Created: 28/7/2021
 
 Add the ETH/JPY price to list of supported Tellor prices.
 
-JPY is among the top-volume currencies in the world. JPY stablecoin services (both Daap and companies) are just emerging. We believe that ETH/JPY price on the trusted Tellor protocol will be valuable addition for the ecosystem.
+JPY is among the top-volume currencies in the world. JPY stablecoin services (both Daap and by corporates) are just emerging. We believe that adding ETH/JPY price on the trusted Tellor protocol will be valuable for the ecosystem.
 
 # Proposal
 
@@ -29,6 +29,6 @@ Note: This will not require the addition of permissioned APIs, as these are all 
 https://docs.google.com/spreadsheets/d/1lVE4gNNeRZiOsOjRl3u0jBO6u5szxT5ZXDlhsh9AbRA/edit#gid=775297008
 
 ### Price source description
-1. CoinGecko: Proposed as the primary source as it is an aggregated price from various DEXes & CEXes, considered a fairly stable & objective feed.
+1. CoinGecko: Proposed as the primary source as it is an aggregated price from various DEXes & CEXes, considered a fairly stable & objective price source.
 1. Bitflyer: Proposed as the secondary source as it is the biggest CEX in Japan offering the ETH/JPY pair directly, considered a good indication of liquidity.
-1. Bitfinex: Proposed as the tertiary source as it is (probably) the biggest CEX outside Japan offering the ETH/JPY pair directly, considered a good off-shore feed.
+1. Bitfinex: Proposed as the tertiary source as it is (probably) the biggest CEX outside Japan offering the ETH/JPY pair directly, considered a good off-shore price source.
