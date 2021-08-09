@@ -15,7 +15,7 @@ Created: 2021-08-09
 * A simple request / TIP can turn them back on to active
 * Only active disputes will be allowed to be disputed.  If disputes happen on non-active disputes, they will be voted down
 * In Tellor X, the plan is to have them voted as invalid
-* USe this sheet to manage: https://docs.google.com/spreadsheets/d/1BK7Cs0K2W-bRaNpuvzFbVX50CgjXH7k-HKAuuWxTiW8/edit#gid=0
+* Use this sheet to manage: https://docs.google.com/spreadsheets/d/1BK7Cs0K2W-bRaNpuvzFbVX50CgjXH7k-HKAuuWxTiW8/edit#gid=0
 
 ## Proposal
 Add a list of ID's that are "active" which means they are secured by the disputing process.  This is an off-chain coordination to better protect miners and disputers from the ambiguity involved in some sparsely used PSR ID's. 
