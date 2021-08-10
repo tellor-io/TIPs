@@ -2,7 +2,7 @@
 TIP: 12
 Title: Active PSR Refactoring
 Discussions-to: None
-Status: Draft
+Status: Implemented
 Category: Off-chain > Security
 Author: themandalore
 Created: 2021-08-09
